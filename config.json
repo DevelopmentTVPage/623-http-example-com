@@ -1,0 +1,15 @@
+{
+    "title": "Test Project One",
+    "baseURL": "https:\/\/http:\/\/example.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759286",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "example.com"
+    }
+}
